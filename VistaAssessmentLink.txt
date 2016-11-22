@@ -1,0 +1,5 @@
+on (release) {
+
+getURL("https://ecoreinst.view.usg.edu/webct/logonDisplay.dowebct?insId=18395011&glcid=URN:X-WEBCT-VISTA-V1:02f0794b-a818-5d85-016b-ced856c5d355&insName=USG%20Collaborative%20Programs%20-%20eCore", "_blank");
+
+}
